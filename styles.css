@@ -29,6 +29,11 @@ nav ul li a {
     text-decoration: none;
 }
 
+main {
+    flex-grow: 1;
+    padding: 20px;
+}
+
 /* Page d'accueil */
 .presentation, .contact {
     padding: 20px;
