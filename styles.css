@@ -8,6 +8,16 @@ body {
     min-height: 100vh;
 }
 
+.container {
+    max-width: 100%;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 header {
     background-color: #333;
     color: #fff;
